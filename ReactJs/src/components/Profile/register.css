@@ -1,0 +1,41 @@
+ .registerForm{
+    margin-left: 500px;
+    /* margin-bottom: 30px; */
+    width:30%;
+    height:570px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 10px 0px black;
+}
+.rsignButton{
+    width: 100%;
+}
+.registerBackgroud{
+    background-color: rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-bottom: 30px ;
+}
+.regHeading{
+    margin-top: 20px;
+    text-align: center;
+}
+.loginLink {
+    color:#ff69B4;
+    cursor: pointer;
+    text-decoration:none;
+}
+.loginLink:hover{
+    color: #ff69B4;
+    cursor: pointer;
+    text-decoration:none;
+}
+.radio{
+    text-align: center;
+}
+.loginForm{
+    margin-left: 500px;
+    /* margin-bottom: 30px; */
+    width:30%;
+    height:370px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 10px 0px black;
+}

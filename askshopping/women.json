@@ -1,0 +1,121 @@
+[{
+    "_id": {
+      "$oid": "5e4544e715c5ca25ecfe5481"
+    },
+    "productImage": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/14/5aa1e01c-dfc3-4a44-ad12-53097ad5c4f91618392095346-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/14/5a9b999e-dd2d-4684-8eff-c324e205f2b11618392095415-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/14/44124d90-68c4-47a5-b407-c2d8787932771618392095464-4.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2021/4/14/402f6fa6-e7e1-4859-a69d-92e06b3197101618392095514-5.jpg"
+    ],
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Libas",
+    "name": "Kurta",
+    "Rate": 1199,
+    "description": "Women Blue Ethnic Printed Kurta",
+    "code": "PRODUCT002",
+    "__v": 0,
+    "offer": 70
+  },{
+    "_id": {
+      "$oid": "5e560fe28c1f9629c4e25922"
+    },
+    "productImage": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2057094/2017/10/10/11507625937423-HERENOW-Women-Kurtas-8251507625937311-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2057094/2017/10/10/11507625937401-HERENOW-Women-Kurtas-8251507625937311-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2057094/2017/10/10/11507620881465-HERENOW-Women-Kurtas-701507620881381-3.jpg"
+    ],
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "userId": "5e4f783effd02429fc91b229",
+    "brand": "HERE&NOW",
+    "name": "Kurta",
+    "Rate": 1399,
+    "description": "Women Blue & Off-White Printed Straight Kurta",
+    "code": "PRODUCT006",
+    "__v": 0,
+    "offer": 73
+  },{
+    "_id": {
+      "$oid": "5e5613f73b4a2333cc7a97c3"
+    },
+    "productImage": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15889736/2021/12/20/85a08887-0358-4dca-9e97-0db309cf81f21640000381994-HERENOW-Women-Kurta-Sets-3771640000381552-7.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15889736/2021/12/20/1ef9b8a1-6169-4338-bbc4-982e740ecd271640000382092-HERENOW-Women-Kurta-Sets-3771640000381552-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15889736/2021/12/20/6a31fc11-c078-49cc-be3e-48650d33dc3e1640000382033-HERENOW-Women-Kurta-Sets-3771640000381552-5.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15889736/2021/12/20/1ee83795-71f4-4b7c-8179-49f229ac75441640000382112-HERENOW-Women-Kurta-Sets-3771640000381552-1.jpg"
+    ],
+    "size": [
+      "S",
+      "M",
+      "XL",
+      "XXL"
+    ],
+    "userId": "5e4f783effd02429fc91b229",
+    "brand": "KIPSTA",
+    "name": "Kurta",
+    "Rate": 2599,
+    "description": "Women Green & Navy Blue Ethnic Print Pure Cotton Kurta",
+    "code": "PRODUCT007",
+    "__v": 0,
+    "offer": 70
+  },{
+    "_id": {
+      "$oid": "5e5615483b4a2333cc7a97c4"
+    },
+    "productImage": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8350193/2021/5/17/1b5dfe9c-8061-43cc-b9e0-382da2e828d81621237922631-Sangria-Women-Mustard-Brown--Pink-Pure-Cotton-Printed-Straig-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8350193/2021/5/17/9b2623cb-853d-4a92-bd3f-513247e3b17c1621237922606-Sangria-Women-Mustard-Brown--Pink-Pure-Cotton-Printed-Straig-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8350193/2021/5/17/2508088f-34e1-4c20-bff6-447f966d24761621237922565-Sangria-Women-Mustard-Brown--Pink-Pure-Cotton-Printed-Straig-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8350193/2021/5/17/f9c8613f-93b2-4f4f-8445-3ab4e7e3b99e1621237922514-Sangria-Women-Mustard-Brown--Pink-Pure-Cotton-Printed-Straig-5.jpg"
+    ],
+    "size": [
+      "S",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "userId": "5e4f783effd02429fc91b229",
+    "brand": "Sangria",
+    "name": "Kurta",
+    "Rate": 3599,
+    "description": "Women Mustard Brown & Pink Pure Cotton Printed Straight Kurta",
+    "code": "PRODUCT008",
+    "__v": 0,
+    "offer": 45
+  },{
+    "_id": {
+      "$oid": "5e561bcf3b4a2333cc7a97c5"
+    },
+    "productImage": [
+      "https://bit.ly/2T0vYz6",
+      "https://bit.ly/381vIEb",
+      "https://bit.ly/2Tck5Vs",
+      "https://bit.ly/391gPmr"
+    ],
+    "size": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "userId": "5e4f783effd02429fc91b229",
+    "brand": "Road star",
+    "name": "NEON",
+    "Rate": 599,
+    "description": "Neon Orange Full Sleeve T-Shirt",
+    "code": "PRODUCT009",
+    "__v": 0,
+    "offer": 25
+  }]

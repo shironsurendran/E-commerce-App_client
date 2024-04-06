@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "629203dda5315f4e306b717a"
+  },
+  "galleryImage": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20481886/2023/2/3/ae141bfb-c167-431e-a23e-b816459f01f51675408703886-Raymond-Men-Blazers-6721675408703167-1.jpg",
+  "galleryTitle": "Blazers",
+  "gallerySubTitle": "Mast & Harbour",
+  "galleryLink": "/mens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e400630a1abb51b2417dae1"
+  },
+  "galleryImage": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17338658/2023/3/14/7249d68d-c494-44b8-932b-f18a0a0891aa1678787563842-Sports52-wear-Abstract-Printed-Dry-Fit-Training-Sports-T-shi-1.jpg",
+  "galleryTitle": "T-shirt",
+  "gallerySubTitle": "Indian Trads",
+  "galleryLink": "#",
+  "__v": 0
+},{ 
+  "_id": {
+    "$oid": "5e40104cc9072d2f9cb18ee1"
+  },
+  "galleryImage": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14024894/2021/5/7/34629481-a89a-468e-a7ad-923dada963cd1620373853275-Harvard-Men-Jeans-6191620373853112-4.jpg",
+  "galleryTitle": "Casuals Jeans",
+  "gallerySubTitle": "Indian Trads Men",
+  "galleryLink": "#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e4010eac9072d2f9cb18ee2"
+  },
+  "galleryImage": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/11197108/2020/8/1/c7fcad0b-9bf5-401a-bbf1-01346c7eb9891596282278840-Anouk-Women-Kurtas-6291596282277729-1.jpg",
+  "galleryTitle": "Chudi",
+  "gallerySubTitle": "Indian Trads",
+  "galleryLink": "#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e4011aec9072d2f9cb18ee3"
+  },
+  "galleryImage": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22536178/2023/3/28/060630ba-0cb0-46f5-ab19-59a0d7502af41679989291511KALINIMaroonBlueWovenDesignZariPureSilkKanjeevaramSaree1.jpg",
+  "galleryTitle": "Saree",
+  "gallerySubTitle": "Indian Trads",
+  "galleryLink": "#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e401282c9072d2f9cb18ee4"
+  },
+  "galleryImage": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17774114/2022/5/16/0898c79a-5a59-4ba4-bb26-a2382b2825db1652686198012-MH-Easy-Men-Cream-Coloured-Shorts-7481652686197412-4.jpg",
+  "galleryTitle": "Slim Sports",
+  "gallerySubTitle": "American Fashion",
+  "galleryLink": "#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e401328c9072d2f9cb18ee6"
+  },
+  "galleryImage": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20982442/2022/11/29/d4c004ad-d941-447e-9f3a-e496ea748d381669728094821CasualShoes1.jpg",
+  "galleryTitle": "Casual'shoes",
+  "gallerySubTitle": "American Fashion",
+  "galleryLink": "#",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e4012c4c9072d2f9cb18ee5"
+  },
+  "galleryImage": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18624924/2022/6/4/107ce639-3ab4-4971-bbf1-5447036754d61654347020201MensShirt1.jpg",
+  "galleryTitle": "Casual's",
+  "gallerySubTitle": "American Fashion",
+  "galleryLink": "#",
+  "__v": 0
+}]

@@ -1,0 +1,30 @@
+.sizeRadioButton{
+     margin-left: 15px; 
+     border-radius: 5px; 
+     background: orange;
+     color: white;
+     padding: 5px;
+}
+.sideNav {
+     margin-top: 50px;
+}
+
+.colorValue {
+     margin-left: 20px;
+}
+.sideBar{
+     margin-left:20px;
+}
+#card{
+     /* margin-left: 5px; */
+     margin-top: 10px;
+     /* padding: 20px; */
+     /* background: red; */
+    
+}
+#card:hover{
+     box-shadow: 1px 0px 10px 0px black;
+}
+/* #hi{
+     margin-left: 10px;
+} */
